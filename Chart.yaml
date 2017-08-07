@@ -1,0 +1,4 @@
+apiVersion: v1
+description: grav demo setup
+name: grav
+version: 0.1.0
